@@ -1,0 +1,11 @@
+{
+    "volbeat": {
+        "name": "volbeat",
+        "base_experience": 151,
+        "abilities": [
+            "illuminate",
+            "swarm",
+            "prankster"
+        ]
+    }
+}
