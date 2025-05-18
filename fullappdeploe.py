@@ -81,8 +81,3 @@ if status == 'running':
 else:
     print("Instance is not running. Current state:", status)
 
-#cleanup function for later use
-# def cleanup_instance(instance_id):
-#     print(f"terminating instance {instance_id}...")
-#     ec2_client.terminate_instances(InstanceIds=[instance_id])
-#     print("terminated.")
