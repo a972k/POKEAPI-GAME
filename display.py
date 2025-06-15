@@ -1,3 +1,4 @@
+# define pokemon data display function
 def display_pokemon(pokemon):
     print("\n--- pokemon drawn ---")
     print(f"name: {pokemon['name'].title()}")
