@@ -1,6 +1,6 @@
 import random
 from storage import load_database, save_database
-from pokeapi import fetch_all_pokemon_names, fetch_pokemon_details
+from poke_utilse import fetch_all_pokemon_names, fetch_pokemon_details
 from display import display_pokemon
 
 # this is a simple Pokémon drawing game that fetches Pokémon data from the pokeapi.
